@@ -1,1 +1,6 @@
-
+user_id,image_paths,user_claim,claim_object
+U001,images/test/case_001/img_1.jpg;images/test/case_001/img_2.jpg,"Agent: Hi, how can I help you today? User: Hi, I had an accident yesterday. My front bumper got hit by another car in the parking lot. There's a big dent. Agent: I'm sorry to hear that. Can you describe the damage? User: It's a large dent on the driver's side of the front bumper. The paint is scratched too.",car
+U002,images/test/case_002/img_1.jpg,"Agent: What happened to your laptop? User: I dropped it and the screen cracked. The whole bottom half of the display is black now. Agent: When did this happen? User: This morning before work.",laptop
+U003,images/test/case_003/img_1.jpg;images/test/case_003/img_2.jpg;images/test/case_003/img_3.jpg,"Agent: Tell me about your package claim. User: The package arrived completely crushed. The box was smashed on one side and the item inside — a ceramic vase — is broken. Agent: Did you take photos before opening it? User: Yes I did, I have photos of the box and the broken item inside.",package
+U004,images/test/case_004/img_1.jpg,"Agent: What is your claim about? User: My car's rear windshield shattered. I think someone threw a rock at it overnight. Agent: Did you file a police report? User: Not yet, I wanted to file the insurance claim first.",car
+U005,images/test/case_005/img_1.jpg,"Agent: What happened to your laptop? User: The hinge is completely broken. The screen barely stays up. Agent: Did you drop it? User: No, it just stopped working one day when I opened it.",laptop

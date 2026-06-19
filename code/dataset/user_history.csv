@@ -1,0 +1,6 @@
+user_id,past_claim_count,accept_claim,manual_review_claim,rejected_claim,last_90_days_claim_count,history_flags,history_summary
+U001,3,2,1,0,1,none,User has 3 past claims; 2 accepted, 1 under manual review. Low risk.
+U002,10,4,2,4,3,high_rejection_rate,User has high rejection rate (4/10). Multiple claims in 90 days.
+U003,1,1,0,0,0,none,First-time claimer; single accepted claim. Low risk.
+U004,7,3,2,2,2,frequent_claimant,Moderate risk; 2 rejections and 2 manual reviews in history.
+U005,0,0,0,0,0,none,New user with no claim history.

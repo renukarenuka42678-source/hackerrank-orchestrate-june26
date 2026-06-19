@@ -1,0 +1,9 @@
+requirement_id,claim_object,applies_to,minimum_image_evidence
+REQ001,car,dent or scratch,At least one clear image of the damaged panel showing the extent of the dent or scratch. Angle must show depth or surface disruption.
+REQ002,car,glass_shatter,Clear image of the affected glass panel. Cracks or shatter pattern must be visible. Wide-angle and close-up preferred.
+REQ003,car,broken_part,Image showing the broken component in situ. The break or separation must be clearly visible.
+REQ004,laptop,crack or broken_part,Clear image of the damaged component (screen, hinge, casing). Crack lines or broken edges must be visible.
+REQ005,laptop,water_damage,Image showing water ingress marks, corrosion, or liquid residue on the device.
+REQ006,package,torn_packaging or crushed_packaging,Image of the package exterior showing deformation, tears, or crush damage. Both sides if possible.
+REQ007,package,missing_part or contents,Image of the opened package showing missing or damaged contents.
+REQ008,all,any,At least one image must be in focus, adequately lit, and show the claimed object. Blurry or unlit images do not meet the evidence standard alone.
